@@ -182,7 +182,7 @@ SELECT ?property ?propertyLabel ?value ?valueLabel WHERE {
 
 ## Использование LLM
 
-Для генерации статей использовалась языковая модель **DeepSeek**.
+Для генерации статей использовалась языковая модель **ChatGPT** компании OpenAI.
 
 Процесс работы:
 
