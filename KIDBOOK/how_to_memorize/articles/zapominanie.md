@@ -114,5 +114,5 @@
 - [Сон](./son.md)  
 
 ---
-Авторы: Олег, @Oleg_Tertychnyi;  
+Авторы: Ковриженков Дмитрий, @Dimakovff;  
 Ресурсы: LLM - Chat GPT
