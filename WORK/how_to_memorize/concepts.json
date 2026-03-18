@@ -1,14 +1,14 @@
 [
   {
-    "section": "how_to_memorize",
+    "section": "4.1. Навыки учёбы",
     "topic": "Как запоминать материал",
-    "author_group": "TEAM_NAME",
+    "author_group": "Команда 15",
     "members": [
-      "УЧАСТНИК_1",
-      "УЧАСТНИК_2",
-      "УЧАСТНИК_3",
-      "УЧАСТНИК_4",
-      "УЧАСТНИК_5"
+      "Ковриженков Дмитрий",
+      "Еряшев Алексей",
+      "Севастьянов Иван",
+      "Снетков Никита",
+      "Тертычный Олег"
     ],
     "concepts": [
       {
@@ -303,8 +303,8 @@
         ],
         "name": "Конспектирование",
         "file": "KIDBOOK/how_to_memorize/articles/konspektirovanie.md",
-        "wikidata_id": null,
-        "dbpedia_resource": null,
+        "wikidata_id": "Q187588",
+        "dbpedia_resource": "http://dbpedia.org/resource/Note-taking",
         "author": "УЧАСТНИК_5",
         "related_terms": [
           "Повторение",
@@ -326,8 +326,8 @@
         ],
         "name": "Самопроверка",
         "file": "KIDBOOK/how_to_memorize/articles/samoproverka.md",
-        "wikidata_id": null,
-        "dbpedia_resource": null,
+        "wikidata_id": "Q213385",
+        "dbpedia_resource": "http://dbpedia.org/resource/Self-assessment",
         "author": "УЧАСТНИК_5",
         "related_terms": [
           "Активное вспоминание",
