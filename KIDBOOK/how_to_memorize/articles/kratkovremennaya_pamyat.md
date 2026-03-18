@@ -121,3 +121,5 @@
 - [Повторение](./povtorenie.md)
 
 ---
+Авторы: Иван, @cupydox;  
+Ресурсы: LLM - ChatGPT
