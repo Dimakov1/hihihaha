@@ -26,7 +26,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/zapominanie.md",
         "wikidata_id": "Q1065742",
         "dbpedia_resource": "http://dbpedia.org/resource/Memorization",
-        "author": "УЧАСТНИК_1",
+        "author": "Ковриженков Дмитрий ",
         "related_terms": [
           "Память",
           "Внимание",
@@ -50,7 +50,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/pamyat.md",
         "wikidata_id": "Q492",
         "dbpedia_resource": "http://dbpedia.org/resource/Memory",
-        "author": "УЧАСТНИК_1",
+        "author": "Севастьянов Иван",
         "related_terms": [
           "Запоминание",
           "Долговременная память",
@@ -73,7 +73,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/dolgovremennaya_pamyat.md",
         "wikidata_id": "Q211548",
         "dbpedia_resource": "http://dbpedia.org/resource/Long-term_memory",
-        "author": "УЧАСТНИК_1",
+        "author": "Еряшев Алексей",
         "related_terms": [
           "Память",
           "Кратковременная память",
@@ -96,7 +96,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/kratkovremennaya_pamyat.md",
         "wikidata_id": "Q208195",
         "dbpedia_resource": "http://dbpedia.org/resource/Short-term_memory",
-        "author": "УЧАСТНИК_2",
+        "author": "Севастьянов Иван",
         "related_terms": [
           "Память",
           "Долговременная память",
@@ -120,7 +120,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/vnimanie.md",
         "wikidata_id": "Q107561",
         "dbpedia_resource": "http://dbpedia.org/resource/Attention",
-        "author": "УЧАСТНИК_2",
+        "author": "Снетков Никита",
         "related_terms": [
           "Запоминание",
           "Концентрация",
@@ -143,7 +143,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/koncentraciya.md",
         "wikidata_id": "Q1061588",
         "dbpedia_resource": "http://dbpedia.org/resource/Concentration_(cognitive)",
-        "author": "УЧАСТНИК_2",
+        "author": "Снетков Никита",
         "related_terms": [
           "Внимание",
           "Запоминание",
@@ -166,7 +166,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/povtorenie.md",
         "wikidata_id": "Q844569",
         "dbpedia_resource": "http://dbpedia.org/resource/Repetition",
-        "author": "УЧАСТНИК_3",
+        "author": "Снетков Никита",
         "related_terms": [
           "Запоминание",
           "Интервальное повторение",
@@ -189,7 +189,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/intervalnoe_povtorenie.md",
         "wikidata_id": "Q831482",
         "dbpedia_resource": "http://dbpedia.org/resource/Spaced_repetition",
-        "author": "УЧАСТНИК_3",
+        "author": "Еряшев Алексей",
         "related_terms": [
           "Повторение",
           "Долговременная память",
@@ -212,7 +212,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/aktivnoe_vspominanie.md",
         "wikidata_id": "Q7157438",
         "dbpedia_resource": "http://dbpedia.org/resource/Active_recall",
-        "author": "УЧАСТНИК_3",
+        "author": "Еряшев Алексей",
         "related_terms": [
           "Повторение",
           "Самопроверка",
@@ -235,7 +235,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/mnemotehnika.md",
         "wikidata_id": "Q544531",
         "dbpedia_resource": "http://dbpedia.org/resource/Mnemonic",
-        "author": "УЧАСТНИК_4",
+        "author": "Севастьянов Иван",
         "related_terms": [
           "Ассоциации",
           "Визуализация",
@@ -258,7 +258,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/associacii.md",
         "wikidata_id": "Q188444",
         "dbpedia_resource": "http://dbpedia.org/resource/Association_(psychology)",
-        "author": "УЧАСТНИК_4",
+        "author": "Еряшев Алексей",
         "related_terms": [
           "Мнемотехника",
           "Визуализация",
@@ -281,7 +281,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/vizualizaciya.md",
         "wikidata_id": "Q1413415",
         "dbpedia_resource": "http://dbpedia.org/resource/Visualization_(graphics)",
-        "author": "УЧАСТНИК_4",
+        "author": "Тертычный Олег",
         "related_terms": [
           "Мнемотехника",
           "Ассоциации",
@@ -305,7 +305,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/konspektirovanie.md",
         "wikidata_id": "Q187588",
         "dbpedia_resource": "http://dbpedia.org/resource/Note-taking",
-        "author": "УЧАСТНИК_5",
+        "author": "Ковриженков Дмитрий ",
         "related_terms": [
           "Повторение",
           "Самопроверка",
@@ -328,7 +328,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/samoproverka.md",
         "wikidata_id": "Q213385",
         "dbpedia_resource": "http://dbpedia.org/resource/Self-assessment",
-        "author": "УЧАСТНИК_5",
+        "author": "Ковриженков Дмитрий ",
         "related_terms": [
           "Активное вспоминание",
           "Повторение",
@@ -351,7 +351,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/son.md",
         "wikidata_id": "Q7382",
         "dbpedia_resource": "http://dbpedia.org/resource/Sleep",
-        "author": "УЧАСТНИК_5",
+        "author": "Тертычный Олег",
         "related_terms": [
           "Долговременная память",
           "Запоминание",
@@ -375,7 +375,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/ustalost.md",
         "wikidata_id": "Q9690",
         "dbpedia_resource": "http://dbpedia.org/resource/Fatigue",
-        "author": "УЧАСТНИК_5",
+        "author": "Тертычный Олег",
         "related_terms": [
           "Сон",
           "Концентрация",
@@ -399,7 +399,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/stress.md",
         "wikidata_id": "Q12078",
         "dbpedia_resource": "http://dbpedia.org/resource/Stress_(biology)",
-        "author": "УЧАСТНИК_5",
+        "author": "Тертычный Олег",
         "related_terms": [
           "Внимание",
           "Концентрация",
@@ -422,7 +422,7 @@
         "file": "KIDBOOK/how_to_memorize/articles/motivaciya.md",
         "wikidata_id": "Q179289",
         "dbpedia_resource": "http://dbpedia.org/resource/Motivation",
-        "author": "УЧАСТНИК_5",
+        "author": "Севастьянов Иван",
         "related_terms": [
           "Запоминание",
           "Повторение",
