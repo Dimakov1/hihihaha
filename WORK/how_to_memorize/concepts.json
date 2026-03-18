@@ -12,7 +12,7 @@
     ],
     "concepts": [
       {
-        "id": "how_to_memorize/zapominanie",
+        "id": "KIDBOOK/how_to_memorize/articles/zapominanie",
         "description": "Процесс сохранения новой информации в памяти и способность воспроизвести её позднее.",
         "lemmas": [
           "запоминание",
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/pamyat",
+        "id": "KIDBOOK/how_to_memorize/articles/pamyat",
         "description": "Способность мозга сохранять, хранить и воспроизводить информацию и опыт.",
         "lemmas": [
           "память",
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/dolgovremennaya_pamyat",
+        "id": "KIDBOOK/how_to_memorize/articles/dolgovremennaya_pamyat",
         "description": "Вид памяти, в котором информация хранится длительное время — от нескольких дней до всей жизни.",
         "lemmas": [
           "долговременная память",
@@ -83,7 +83,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/kratkovremennaya_pamyat",
+        "id": "KIDBOOK/how_to_memorize/articles/kratkovremennaya_pamyat.md",
         "description": "Вид памяти, в котором информация удерживается короткое время — обычно от нескольких секунд до минуты.",
         "lemmas": [
           "кратковременная память",
@@ -106,7 +106,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/vnimanie",
+        "id": "KIDBOOK/how_to_memorize/articles/vnimanie",
         "description": "Способность сосредотачиваться на определённой информации, выделяя её среди остального.",
         "lemmas": [
           "внимание",
@@ -130,7 +130,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/koncentraciya",
+        "id": "KIDBOOK/how_to_memorize/articles/koncentraciya",
         "description": "Умение длительно удерживать внимание на одной задаче, не отвлекаясь.",
         "lemmas": [
           "концентрация",
@@ -153,7 +153,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/povtorenie",
+        "id": "KIDBOOK/how_to_memorize/articles/povtorenie",
         "description": "Повторное обращение к изученному материалу для его закрепления в памяти.",
         "lemmas": [
           "повторение",
@@ -176,7 +176,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/intervalnoe_povtorenie",
+        "id": "KIDBOOK/how_to_memorize/articles/intervalnoe_povtorenie",
         "description": "Метод повторения информации через постепенно увеличивающиеся промежутки времени.",
         "lemmas": [
           "интервальное повторение",
@@ -199,7 +199,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/aktivnoe_vspominanie",
+        "id": "KIDBOOK/how_to_memorize/articles/aktivnoe_vspominanie",
         "description": "Метод обучения, при котором человек сам пытается воспроизвести информацию без подсказок.",
         "lemmas": [
           "активное вспоминание",
@@ -222,7 +222,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/mnemotehnika",
+        "id": "KIDBOOK/how_to_memorize/articles/mnemotehnika",
         "description": "Набор специальных приёмов и техник, облегчающих запоминание информации с помощью образов и ассоциаций.",
         "lemmas": [
           "мнемотехника",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/associacii",
+        "id": "KIDBOOK/how_to_memorize/articles/associacii",
         "description": "Мысленные связи между новой информацией и тем, что уже знакомо, помогающие лучше запоминать.",
         "lemmas": [
           "ассоциации",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/vizualizaciya",
+        "id": "KIDBOOK/how_to_memorize/articles/vizualizaciya",
         "description": "Представление информации в виде мысленных образов, схем или рисунков для лучшего понимания и запоминания.",
         "lemmas": [
           "визуализация",
@@ -291,7 +291,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/konspektirovanie",
+        "id": "KIDBOOK/how_to_memorize/articles/konspektirovanie",
         "description": "Краткая запись ключевых идей и фактов из учебного материала своими словами.",
         "lemmas": [
           "конспектирование",
@@ -315,7 +315,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/samoproverka",
+        "id": "KIDBOOK/how_to_memorize/articles/samoproverka",
         "description": "Проверка своих знаний без подсказок, помогающая выявить пробелы и укрепить запоминание.",
         "lemmas": [
           "самопроверка",
@@ -338,7 +338,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/son",
+        "id": "KIDBOOK/how_to_memorize/articles/son",
         "description": "Естественное состояние отдыха, во время которого мозг обрабатывает и закрепляет полученную за день информацию.",
         "lemmas": [
           "сон",
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/ustalost",
+        "id": "KIDBOOK/how_to_memorize/articles/ustalost",
         "description": "Состояние снижения физической и умственной энергии, ухудшающее концентрацию и способность запоминать.",
         "lemmas": [
           "усталость",
@@ -385,7 +385,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/stress",
+        "id": "KIDBOOK/how_to_memorize/articles/stress",
         "description": "Состояние психологического напряжения, которое может мешать сосредоточиться и запоминать информацию.",
         "lemmas": [
           "стресс",
@@ -409,7 +409,7 @@
         ]
       },
       {
-        "id": "how_to_memorize/motivaciya",
+        "id": "KIDBOOK/how_to_memorize/articles/motivaciya",
         "description": "Внутреннее или внешнее побуждение, которое помогает человеку начать учиться и не бросить на полпути.",
         "lemmas": [
           "мотивация",
