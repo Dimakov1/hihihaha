@@ -116,3 +116,5 @@
 - [Усталость](./ustalost.md)
 
 ---
+Авторы: Олег, @Oleg_Tertychnyi;
+Ресурсы: LLM - Chat GPT
